@@ -1,3 +1,5 @@
+# function to get the result of a division
+
 def division(a, b):
     print(a / b)
 
@@ -8,4 +10,6 @@ if __name__=='__main__':
 
 
 
-# this is a modification from main
+
+# this is a different modification
+# coming from the branch
